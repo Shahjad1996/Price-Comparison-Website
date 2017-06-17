@@ -1,0 +1,180 @@
+<!DOCTYPE>
+<html>
+<head>
+<title>ABOUT US</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+	body{
+		overflow-x: hidden;
+	}	
+	.work{
+		background-color: #515151;
+		color: white;
+		font-family: lucida;
+		font-size: 30px;
+		padding-bottom: 20px;
+		padding-top: 10px;
+		padding-left: 10px;
+		padding-right: 10px;
+		text-align: justify;
+    	text-justify: inter-word;
+	}
+	h1 span, h3 span, p span{
+		background-color: #515151;
+		color: white;
+		width: auto;
+		font-family: tahoma;
+	}
+	.display-container{
+		position:relative;
+	}
+	.animate-opacity{
+		animation:opac 0.8s;
+	}
+	@keyframes opac{
+		from{opacity:0} to{opacity:1}
+	}
+	.container:after,.container:before{
+		content:"";
+		display:table;
+		clear:both;
+	}
+	.container{
+		padding:0.01em 16px
+	}
+	.display-container:hover{
+		display:block
+	}
+	.display-center{
+		position:absolute;
+		margin-left:3;
+		bottom:0;
+		margin-top: -35px;
+	}
+	.margin-bottom{
+		margin-bottom:16px!important
+	}
+	.buutton:hover{
+		color:#000!important;
+		background-color:#ccc!important
+	}
+	.xlarge{
+		font-size:30px!important
+	}
+	.hover-blue:hover{
+		color:#000!important;
+		background-color:#ffdb03!important
+	}
+	.padding-40{
+		padding-top:40px!important;
+		padding-bottom:30px!important
+	}
+	.center{
+		display:inline-block;
+		width:100%;
+		margin-left: 1px;
+		margin-right: 2px;
+		text-align:center;
+	}
+	.row:after,.row:before{
+		content:"";
+		display:table;
+		clear:both;
+	}
+	.row{
+		/*width: device-width;*/
+	}
+	.onethird{
+		float:left;
+		/*max-width:200%;*/
+		/*width:30%;*/
+		/*padding:10px;*/
+		padding-right: 30px;
+		padding-left: 85px;
+		font-family: lucida;
+		font-size: 20px;
+		color: white;
+		/*align-content: center;*/
+	}
+	.circle{
+		border-radius:50%
+	}
+	.hover-opacity:hover{opacity:0.60}, .hover-opacity-off:hover{opacity:1}
+	h1,h2,p{
+		font-family: lucida;
+	}
+	.parallax { 
+    /* The image used */
+    background-image: url("myparallax.jpg");
+
+    /* Full height */
+    height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    margin-right: 5px;
+    /*padding-bottom: 500px;*/
+	}
+.bg-1, .bg-1 a{
+    /*background: #2d2d30;*/
+    background-image: url("foot1.png");
+    color: darkblue;
+    padding: 0px;
+    font-weight: bold;
+    margin-left: -17px;
+    /*box-shadow: 4px 4px 4px black;*/
+}
+</style>
+</head>
+<body id="myPage">
+
+<!-- Image Header -->
+<div class="display-container animate-opacity">
+
+  <img src="1.jpg" alt="boat" style="width:100%;min-height:270px;max-height:600px;">
+  <div class="container display-center margin-bottom">  
+    <button class="buutton xlarge hover-blue" onclick="window.location.href='../web.jsp'">BEST 'O' MANIA</button>
+  </div>
+</div>
+
+<div class="work ">
+<h2>Overview of our Work</h2>
+<p><span id="just">BEST 'O' MANIA explores the possibility of creating a user friendly mobile-price comparison web application that portrays latest mobile prices from top e-commerce websites like Amazon, Flipkart, Snapdeal, etc. This application also serves as a ideal tool for businesses that need to see exactly what their competitors are offering, including product types. At the same time, this application provides the quickest way to analyze prices and find the right products at the right price.</span></p>
+</div>
+
+<!-- Team Container -->
+<div class="container center parallax" id="team">
+<br>
+<h1><span>&nbsp;MEET THE TEAM&nbsp;</span></h1>
+<br>
+<div class="row" ><br>
+
+<div class="onethird">
+  <img src="k.jpg" alt="DEVELOPER" style="width:300px;height:280px;" class="circle hover-opacity">
+  <h3><span>KISHAN KUMAR SINGH</span></h3>
+  <p><span>60620902714</span></p>
+</div>
+
+<div class="onethird">
+  <img src="saksham.jpg" alt="DEVELOPER" style="width:300px;height:280px;" class="circle hover-opacity">
+  <h3><span>SAKSHAM ARORA</span></h3>
+  <p><span>02120902714</span></p>
+</div>
+
+<div class="onethird">
+  <img src="s.jpg" alt="DEVELOPER" style="width:300px;height:280px;" class="circle hover-opacity">
+  <h3><span>SHAHJAD</span></h3>
+  <p><span>01820902714</span></p><br/>
+</div>
+
+</div>
+<div class="bg-1"><br/><br/><br/><br/><br/><br/><br>
+  <p>Copyright 2017 Best 'O' Mania | All rights reserved.<a href="../web.jsp"><br/>BEST 'O' MANIA</a></p><br>
+</div>
+</body>
+</html>

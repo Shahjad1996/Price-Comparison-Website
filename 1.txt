@@ -1,0 +1,1083 @@
+
+      <li id="LI_1">
+  <article id="ARTICLE_2" class="article1">
+  
+      <div id="DIV_17">
+        <img src="https://rukminim1.flixcart.com/image/832/832/mobile/f/s/k/samsung-galaxy-j7-sm-j700f-original-imae9cdffd5t4yzb.jpeg?q=70" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            SAMSUNG Galaxy J7 (Gold)
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    1.5 GB RAM
+  </li>
+  <li id="LI_3">
+    5.5 inch HD Display
+  </li>
+  <li id="LI_4">
+    13MP Primary Camera | 5MP Front
+  </li>
+  <li id="LI_5">
+    3000 mAh Battery
+  </li>
+  <li id="LI_7">
+    Exynos 7580 Processor
+  </li>
+</ul>
+        </div>
+        
+        
+
+      </div>
+      <section id="SECTION_42">
+        <h4 id="H4_43">
+          Other deals
+        </h4>
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/gp/offer-listing/B014DYVWWS/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170329387108&condition=new';">
+              Amazon<br><b>₹10,500</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href=' https://www.flipkart.com/samsung-galaxy-j7-gold-16-gb/p/itmeafbfjhsydbpw?pid=MOBE93GWSMGZHFSK&srno=s_1_4&otracker=search&lid=LSTMOBE93GWSMGZHFSKT6OZOB&qH=8f13bc08bae6da84';">
+              Flipkart<br><b>₹10,990</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" onclick="location.href='http://www.shopclues.com/samsung-galaxy-j7-black-16-gb-16.html?ty=0&id=6-73-fd2f2dd6-743a-4b2d-81a5-48d0a8b79c7d&mcid=aff&tid=nh&utm_source=Mysmartprice&OfferId=15';">
+              Shopclues<br><b>₹10,490</b>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Shopclues</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹10,490</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='http://www.shopclues.com/samsung-galaxy-j7-black-16-gb-16.html?ty=0&id=6-73-fd2f2dd6-743a-4b2d-81a5-48d0a8b79c7d&mcid=aff&tid=nh&utm_source=Mysmartprice&OfferId=15';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+
+<br><br>
+      
+      <li id="LI_1">
+  <article id="ARTICLE_2" class="article2">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/5195-84-1.jpg" id="IMG_18" />
+        <button type="button" id="BUTTON_19">
+          
+        </button>
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            HTC Desire 620G
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    1 GB RAM | 8 GB ROM 
+  </li>
+  <li id="LI_3">
+    5 inch HD Display
+  </li>
+  <li id="LI_4">
+    5MP Primary Camera
+  </li>
+  <li id="LI_5">
+    2100 mAh Battery
+  </li>
+  <li id="LI_7">
+    1 Year Manufacturer Warranty
+  </li>
+</ul>
+        </div>
+        
+        
+
+      </div>
+      <section id="SECTION_42">
+        <h4 id="H4_43">
+          Other deals
+        </h4>
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/gp/offer-listing/B00R7GIO9E/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170329388813&condition=new';">
+              Amazon<br><b>₹6,900</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href=' https://www.flipkart.com/htc-620g-white-8-gb/p/itmefn6k7a3kvfhg?pid=MOBEFN6KZ5HR24YY&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170329388835';">
+              Flipkart<br><b>₹6,999</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" onclick="location.href='http://www.shopclues.com/htc-desire-620g-14.html?ty=0&id=6-73-fd2f2dd6-743a-4b2d-81a5-48d0a8b79c7d&mcid=aff&tid=nh&utm_source=Mysmartprice&OfferId=15';">
+              Shopclues<br><b>₹6,269</b>
+            </button>
+          </li>
+        </ul>
+
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Snapdeal</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹6,269</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='http://www.shopclues.com/htc-desire-620g-14.html?ty=0&id=6-73-fd2f2dd6-743a-4b2d-81a5-48d0a8b79c7d&mcid=aff&tid=nh&utm_source=Mysmartprice&OfferId=15';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+    <div id="DIV_66">
+      <div id="DIV_67">
+        <div id="DIV_68">
+          <div id="DIV_69">
+            <div id="DIV_70">
+              <button id="BUTTON_71">
+                Share
+              </button>
+            </div>
+            <button id="BUTTON_72">
+              <span id="SPAN_73"></span>
+            </button>
+            <svg id="svg_74">
+              <path id="path_75">
+              </path>
+            </svg><span id="SPAN_76">Close</span>
+            <button id="BUTTON_77">
+              Hotel Details
+            </button>
+          </div>
+          <div id="DIV_78">
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+</li>
+
+<br><br>
+      
+      <li id="LI_1">
+  <article id="ARTICLE_2" class="article3">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/12242-16-1.jpg" id="IMG_18" />
+        <button type="button" id="BUTTON_19">
+          
+        </button>
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Oppo F3 Plus
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    4 GB RAM | 64 GB ROM 
+  </li>
+  <li id="LI_3">
+    6 inch Full HD Display
+  </li>
+  <li id="LI_4">
+    16MP Primary Camera | 16MP Front
+  </li>
+  <li id="LI_5">
+    4000 mAh Battery
+  </li>
+  <li id="LI_7">
+    Qualcomm Snapdragon MSM8976 Pro Processor
+  </li>
+</ul>
+        </div>
+        
+        
+
+      </div>
+      <section id="SECTION_42">
+        <h4 id="H4_43">
+          Other deals
+        </h4>
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/dp/B06XPFG9HD?/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170329391995&condition=new';">
+              Amazon<br><b>₹30,990</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href=' https://www.flipkart.com/oppo-f3-plus-gold-64-gb/p/itmes9g9bh4zskf2?pid=MOBES9G5SJHYT9QX&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170329392022';">
+              Flipkart<br><b>₹30,990</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" ><strike>
+              Shopclues<br><b>N/A</b></strike>
+            </button>
+          </li>
+        </ul>
+
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Amazon</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹30,990</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='http://www.amazon.in/dp/B06XPFG9HD?/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170329391995&condition=new';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+    <div id="DIV_66">
+      <div id="DIV_67">
+        <div id="DIV_68">
+          <div id="DIV_69">
+            <div id="DIV_70">
+              <button id="BUTTON_71">
+                Share
+              </button>
+            </div>
+            <button id="BUTTON_72">
+              <span id="SPAN_73"></span>
+            </button>
+            <svg id="svg_74">
+              <path id="path_75">
+              </path>
+            </svg><span id="SPAN_76">Close</span>
+            <button id="BUTTON_77">
+              Hotel Details
+            </button>
+          </div>
+          <div id="DIV_78">
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+</li>
+
+<br><br>
+      
+      <li id="LI_1">
+  <article id="ARTICLE_2" class="article4">
+  
+      <div id="DIV_17">
+        <img src="https://rukminim1.flixcart.com/image/832/832/mobile/z/e/j/motorola-moto-m-xt1663-original-imaep55utc7u4sg8.jpeg?q=70" id="IMG_18" />
+        <button type="button" id="BUTTON_19">
+          
+        </button>
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Moto M (Gold) 
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    3 GB RAM | 32 GB ROM
+  </li>
+  <li id="LI_3">
+    5.5 inch Full HD Display
+  </li>
+  <li id="LI_4">
+    16MP Primary Camera | 8MP Front
+  </li>
+  <li id="LI_5">
+    3050 mAh Li-Polymer Battery
+  </li>
+  <li id="LI_7">
+    MTK Helio P15 64-bit Processor
+  </li>
+</ul>
+        </div>
+        
+        
+
+      </div>
+      <section id="SECTION_42">
+        <h4 id="H4_43">
+          Other deals
+        </h4>
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='https://shopmonk.com/motorola-m?storage=334';">
+              shopmonk<br><b>₹20,697</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href=' https://www.flipkart.com/moto-m-gold-32-gb/p/itmenqavzwusfwgf?pid=MOBENQAVHFQNPZEJ&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170329397458';">
+              Flipkart<br><b>₹15,999</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" ><strike>
+              Shopclues<br><b>N/A</b></strike>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Flipkart</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹15,999</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href=' https://www.flipkart.com/moto-m-gold-32-gb/p/itmenqavzwusfwgf?pid=MOBENQAVHFQNPZEJ&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170329397458';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+    <div id="DIV_66">
+      <div id="DIV_67">
+        <div id="DIV_68">
+          <div id="DIV_69">
+            <div id="DIV_70">
+              <button id="BUTTON_71">
+                Share
+              </button>
+            </div>
+            <button id="BUTTON_72">
+              <span id="SPAN_73"></span>
+            </button>
+            <svg id="svg_74">
+              <path id="path_75">
+              </path>
+            </svg><span id="SPAN_76">Close</span>
+            <button id="BUTTON_77">
+              Hotel Details
+            </button>
+          </div>
+          <div id="DIV_78">
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+</li>
+
+<br><br>
+      
+      <li id="LI_1">
+  <article id="ARTICLE_2" class="article5">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/10136-81-1.jpg" id="IMG_18" />
+        <button type="button" id="BUTTON_19">
+          
+        </button>
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            OnePlus 3 (Soft Gold)
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    6 GB RAM 
+  </li>
+  <li id="LI_3">
+    5.5 inch Retina HD Display
+  </li>
+  <li id="LI_4">
+    16 MP Primary Camera |  8 MP Front
+  </li>
+  <li id="LI_5">
+    Android OS, v6.0.1 (Marshmallow), upgradable to v7.1.1 (Nougat)
+  </li>
+  <li id="LI_7">
+    1 Year Manufacturer Warranty
+  </li>
+</ul>
+        </div>
+        
+        
+
+      </div>
+      <section id="SECTION_42">
+        <h4 id="H4_43">
+          Other deals
+        </h4>
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='https://shopmonk.com/oneplus-3?storage=332';">
+              Shopmonk<br><b>₹27,899</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href=' http://www.amazon.in/gp/offer-listing/B01DDP83Y8/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170329420448&condition=new';">
+              Amazon<br><b>₹27,999</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" ><strike>
+              Shopclues<br><b>N/A</b></strike>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Shopmonk</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹27,899</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='https://shopmonk.com/oneplus-3?storage=332';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+    <div id="DIV_66">
+      <div id="DIV_67">
+        <div id="DIV_68">
+          <div id="DIV_69">
+            <div id="DIV_70">
+              <button id="BUTTON_71">
+                Share
+              </button>
+            </div>
+            <button id="BUTTON_72">
+              <span id="SPAN_73"></span>
+            </button>
+            <svg id="svg_74">
+              <path id="path_75">
+              </path>
+            </svg><span id="SPAN_76">Close</span>
+            <button id="BUTTON_77">
+              Hotel Details
+            </button>
+          </div>
+          <div id="DIV_78">
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+</li>
+
+<br><br>
+      
+      <li id="LI_1">
+  <article id="ARTICLE_2" class="article6">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/11080-47-1.jpg" id="IMG_18" />
+        <button type="button" id="BUTTON_19">
+          
+        </button>
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Lenovo Vibe K5 Note
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    4 GB RAM | 32 GB ROM
+  </li>
+  <li id="LI_3">
+    5.5 inch Full HD Display
+  </li>
+  <li id="LI_4">
+    13 MP Primary Camera | 8 MP Front
+  </li>
+  <li id="LI_5">
+    3500 mAh Li-Ion Polymer Battery
+  </li>
+  <li id="LI_7">
+    Helio P10 64-bit Processor
+  </li>
+</ul>
+        </div>
+        
+        
+
+      </div>
+      <section id="SECTION_42">
+        <h4 id="H4_43">
+          Other deals
+        </h4>
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='https://www.infibeam.com/Mobiles/lenovo-vibe-k5-note-4-gb/P-mobi-14324172753-cat-z.html?trackId=gadget_store&subTrackId=20170329425174#variantId=P-mobi-14336745998';">
+              infibeam<br><b>₹16,999</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href=' https://www.flipkart.com/lenovo-vibe-k5-note-gold-32-gb/p/itmejj6kczvxej4g?pid=MOBEJJ6K5A3GQ9SU&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170329425164';">
+              Flipkart<br><b>₹12,499</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" ><strike>
+              Amazon<br><b>N/A</b></strike>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Flipkart</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹12,499</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65"onclick="location.href=' https://www.flipkart.com/lenovo-vibe-k5-note-gold-32-gb/p/itmejj6kczvxej4g?pid=MOBEJJ6K5A3GQ9SU&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170329425164';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+    <div id="DIV_66">
+      <div id="DIV_67">
+        <div id="DIV_68">
+          <div id="DIV_69">
+            <div id="DIV_70">
+              <button id="BUTTON_71">
+                Share
+              </button>
+            </div>
+            <button id="BUTTON_72">
+              <span id="SPAN_73"></span>
+            </button>
+            <svg id="svg_74">
+              <path id="path_75">
+              </path>
+            </svg><span id="SPAN_76">Close</span>
+            <button id="BUTTON_77">
+              Hotel Details
+            </button>
+          </div>
+          <div id="DIV_78">
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+</li>
+
+<br><br>
+      
+      <li id="LI_1">
+  <article id="ARTICLE_2" class="article7">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/10210-5-1.jpg" id="IMG_18" />
+        <button type="button" id="BUTTON_19">
+          <span id="SPAN_20"><span id="SPAN_21">View images</span></span>
+        </button>
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Apple iPhone SE
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    16 GB ROM
+  </li>
+  <li id="LI_3">
+    4 inch Retina Display
+  </li>
+  <li id="LI_4">
+    12MP Primary Camera | 1.2MP Front
+  </li>
+  <li id="LI_5">
+    Li-Ion Battery
+  </li>
+  <li id="LI_7">
+    A9 Chip with 64-bit Architecture and M9 Motion Co-processor Processor
+  </li>
+</ul>
+        </div>
+        
+        
+
+      </div>
+      <section id="SECTION_42">
+        <h4 id="H4_43">
+          Other deals
+        </h4>
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='https://shopmonk.com/apple-iphone-se?storage=331';">
+              shopmonk<br><b>₹26,990</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href=' https://www.flipkart.com/apple-iphone-se-rose-gold-16-gb/p/itmehgsbfs6pfqjv?pid=MOBEHGSBJTRTFYRU&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170329430618';">
+              Flipkart<br><b>₹29,999</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" onclick="location.href='http://www.amazon.in/gp/offer-listing/B01DXTSZDI/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170329430536&condition=new';">
+              Amazon<br><b>₹23,600</b>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Amazon</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹23,600</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='http://www.amazon.in/gp/offer-listing/B01DXTSZDI/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170329430536&condition=new';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+    <div id="DIV_66">
+      <div id="DIV_67">
+        <div id="DIV_68">
+          <div id="DIV_69">
+            <div id="DIV_70">
+              <button id="BUTTON_71">
+                Share
+              </button>
+            </div>
+            <button id="BUTTON_72">
+              <span id="SPAN_73"></span>
+            </button>
+            <svg id="svg_74">
+              <path id="path_75">
+              </path>
+            </svg><span id="SPAN_76">Close</span>
+            <button id="BUTTON_77">
+              Hotel Details
+            </button>
+          </div>
+          <div id="DIV_78">
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+</li>
+
+<br><br>
+      
+      <li id="LI_1">
+  <article id="ARTICLE_2" class="article8">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/10386-62-1.jpg" id="IMG_18" />
+        <button type="button" id="BUTTON_19">
+         
+        </button>
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Micromax Canvas 6
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    3 GB RAM | 32 GB ROM
+  </li>
+  <li id="LI_3">
+    5.5 inch Full HD Display
+  </li>
+  <li id="LI_4">
+    13MP Primary Camera | 8MP Front
+  </li>
+  <li id="LI_5">
+    3000 mAh Li-Polymer Battery
+  </li>
+  <li id="LI_7">
+    MT6753 Processor
+  </li>
+</ul>
+        </div>
+        
+        
+
+      </div>
+      <section id="SECTION_42">
+        <h4 id="H4_43">
+          Other deals
+        </h4>
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.shopclues.com/micromax-e485-canvas-6-champagne-4g-2.html?ty=0&id=6-73-fd2f2dd6-743a-4b2d-81a5-48d0a8b79c7d&mcid=aff&tid=nh&utm_source=Mysmartprice&OfferId=15';">
+              shopclues<br><b>₹13,500</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href=' https://www.flipkart.com/micromax-canvas-6-champagne-32-gb/p/itmegkshrjyrwufr?pid=MOBEGKSHHHGVKYNQ&affid=sulakshanm&affExtParam1=electronics&affExtParam2=201703302023';">
+              Flipkart<br><b>₹8,999</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" onclick="location.href='http://www.amazon.in/gp/offer-listing/B01FSE7DZM/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=201703302124&condition=new';">
+              Amazon<br><b>₹14,489</b>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Flipkart</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹8,999</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href=' https://www.flipkart.com/micromax-canvas-6-champagne-32-gb/p/itmegkshrjyrwufr?pid=MOBEGKSHHHGVKYNQ&affid=sulakshanm&affExtParam1=electronics&affExtParam2=201703302023';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+    <div id="DIV_66">
+      <div id="DIV_67">
+        <div id="DIV_68">
+          <div id="DIV_69">
+            <div id="DIV_70">
+              <button id="BUTTON_71">
+                Share
+              </button>
+            </div>
+            <button id="BUTTON_72">
+              <span id="SPAN_73"></span>
+            </button>
+            <svg id="svg_74">
+              <path id="path_75">
+              </path>
+            </svg><span id="SPAN_76">Close</span>
+            <button id="BUTTON_77">
+              Hotel Details
+            </button>
+          </div>
+          <div id="DIV_78">
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+</li>
+
+<br><br>
+      
+      <li id="LI_1">
+  <article id="ARTICLE_2" class="article9">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/11084-69-1.jpg" id="IMG_18" />
+        <button type="button" id="BUTTON_19">
+         
+        </button>
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Xiaomi Redmi 3s Prime
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    3 GB RAM | 32 GB ROM
+  </li>
+  <li id="LI_3">
+    5 inch HD Display
+  </li>
+  <li id="LI_4">
+    13MP Primary Camera | 5MP Front
+  </li>
+  <li id="LI_5">
+    4100 mAh Li-Ion Polymer Battery
+  </li>
+  <li id="LI_7">
+    Qualcomm Snapdragon 430 64-bit Processor
+  </li>
+</ul>
+        </div>
+        
+        
+
+      </div>
+      <section id="SECTION_42">
+        <h4 id="H4_43">
+          Other deals
+        </h4>
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.shopclues.com/xiaomi-redmi-3s-prime-32gb-data-cable-1.html?ty=0&id=6-73-fd2f2dd6-743a-4b2d-81a5-48d0a8b79c7d&mcid=aff&tid=nh&utm_source=Mysmartprice&OfferId=15';">
+              shopclues<br><b>₹10,499</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href=' https://www.flipkart.com/redmi-3s-prime-dark-grey-32-gb/p/itmehbejjz5zxzsh?pid=MOBEKWZYZHUXJFR6&affid=sulakshanm&affExtParam1=electronics&affExtParam2=201703304011';">
+              Flipkart<br><b>₹8,999</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" onclick="location.href='http://www.amazon.in/gp/offer-listing/B01LYLP7ZN/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=201703304005&condition=new';">
+              Amazon<br><b>₹8,999</b>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Flipkart</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹8,999</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href=' https://www.flipkart.com/redmi-3s-prime-dark-grey-32-gb/p/itmehbejjz5zxzsh?pid=MOBEKWZYZHUXJFR6&affid=sulakshanm&affExtParam1=electronics&affExtParam2=201703304011';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+    <div id="DIV_66">
+      <div id="DIV_67">
+        <div id="DIV_68">
+          <div id="DIV_69">
+            <div id="DIV_70">
+              <button id="BUTTON_71">
+                Share
+              </button>
+            </div>
+            <button id="BUTTON_72">
+              <span id="SPAN_73"></span>
+            </button>
+            <svg id="svg_74">
+              <path id="path_75">
+              </path>
+            </svg><span id="SPAN_76">Close</span>
+            <button id="BUTTON_77">
+              Hotel Details
+            </button>
+          </div>
+          <div id="DIV_78">
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+</li>
+
+<br><br>
+      
+      <li id="LI_1">
+  <article id="ARTICLE_2" class="article10">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/8055-10-1.jpg" id="IMG_18" />
+        <button type="button" id="BUTTON_19">
+          
+        </button>
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Asus Zenfone Max
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    2 GB RAM | 16 GB ROM
+  </li>
+  <li id="LI_3">
+    5.5 inch HD Display
+  </li>
+  <li id="LI_4">
+    13MP Primary Camera | 5MP Front
+  </li>
+  <li id="LI_5">
+    5000 mAh Li-Polymer Battery
+  </li>
+  <li id="LI_7">
+    Qualcomm Snapdragon 410 MSM8916 Processor
+  </li>
+</ul>
+        </div>
+        
+        
+
+      </div>
+      <section id="SECTION_42">
+        <h4 id="H4_43">
+          Other deals
+        </h4>
+         <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.shopclues.com/asus-zenfone-max-zc550kl-2gb.html?ty=0&id=6-73-fd2f2dd6-743a-4b2d-81a5-48d0a8b79c7d&mcid=aff&tid=nh&utm_source=Mysmartprice&OfferId=15';">
+              shopclues<br><b>₹8,241</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href=' https://www.flipkart.com/asus-zenfone-max-black-16-gb/p/itmedhzfdc6jhegv?pid=MOBEDHZFWGKNJMHF&affid=sulakshanm&affExtParam1=electronics&affExtParam2=201703306422';">
+              Flipkart<br><b>₹9,499</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" onclick="location.href='http://www.amazon.in/gp/offer-listing/B018VKZPG4/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=201703306446&condition=new';">
+              Amazon<br><b>₹8,870</b>
+            </button>
+          </li>
+        </ul>
+        
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Shopclues</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹8,241</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='http://www.shopclues.com/asus-zenfone-max-zc550kl-2gb.html?ty=0&id=6-73-fd2f2dd6-743a-4b2d-81a5-48d0a8b79c7d&mcid=aff&tid=nh&utm_source=Mysmartprice&OfferId=15';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+    <div id="DIV_66">
+      <div id="DIV_67">
+        <div id="DIV_68">
+          <div id="DIV_69">
+            <div id="DIV_70">
+              <button id="BUTTON_71">
+                Share
+              </button>
+            </div>
+            <button id="BUTTON_72">
+              <span id="SPAN_73"></span>
+            </button>
+            <svg id="svg_74">
+              <path id="path_75">
+              </path>
+            </svg><span id="SPAN_76">Close</span>
+            <button id="BUTTON_77">
+              Hotel Details
+            </button>
+          </div>
+          <div id="DIV_78">
+          </div>
+        </div>
+      </div>
+    </div>
+  </article>
+</li>

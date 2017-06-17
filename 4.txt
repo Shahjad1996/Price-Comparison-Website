@@ -1,0 +1,778 @@
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/4498-88-1.jpg" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Samsung Galaxy Alpha (Black)
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    32 GB ROM | 2 GB RAM
+  </li>
+  <li id="LI_3">
+    4.7-inch HD Super AMOLED
+  </li>
+  <li id="LI_4">
+    12MP Primary Camera | 2.1MP Front
+  </li>
+  <li id="LI_5">
+    1860 mAh Battery
+  </li>
+  <li id="LI_7">
+    1 Year Manufacturer Warranty
+  </li>
+</ul>
+        </div>
+        
+        
+
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/gp/offer-listing/B00OCAWEQC/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170331352443&condition=new';">
+              Amazon.in<b id="STRONG_47">‎₹34,999</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='https://www.flipkart.com/samsung-galaxy-alpha-frosted-gold-32-gb/p/itmeyg8srcj3vh3w?pid=MOBEYAW2YZNKXETE&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170331352516';">
+              Flipkart<b id="STRONG_50">‎₹42,000</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" onclick="location.href='http://www.ebay.in/itm/Samsung-Galaxy-Alpha-SM-G850Y-Sleek-Silver-Seal-Pack-4G-LTE-/252648661942?aff_source=mysmartprice';">
+              Ebay<b id="STRONG_53">‎₹49,999</b>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+
+            <div id="DIV_59">
+              <em id="EM_60">Amazon</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹34,999</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='http://www.amazon.in/gp/offer-listing/B00OCAWEQC/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170331352443&condition=new';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/11937-42-1.jpg" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Samsung Galaxy C9 Pro
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    64 GB ROM | 6 GB RAM
+  </li>
+  <li id="LI_3">
+    6-inch Full HD Super AMOLED display
+  </li>
+  <li id="LI_4">
+    16MP Primary Camera | 16MP Front
+  </li>
+  <li id="LI_5">
+    4000 mAh Battery
+  </li>
+  <li id="LI_7">
+    octa-core Snapdragon 653 processor
+  </li>
+</ul>
+        </div>
+        
+        
+
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/gp/offer-listing/B01NCZJMMY/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170331354425&condition=new';">
+              Amazon.in<b id="STRONG_47">‎₹35,111</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='https://www.flipkart.com/samsung-galaxy-c9-pro-black-64-gb/p/itmeqhbwjgvdbbrf?pid=MOBEQHBWUJUHKXJZ&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170331354432';">
+              Flipkart<b id="STRONG_50">‎₹36,900</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" onclick="location.href='https://shopmonk.com/samsung-galaxy-c9-pro?storage=332';">
+              Shopmonk<b id="STRONG_53">‎₹31,990</b>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Shopmonk</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹31,990</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='https://shopmonk.com/samsung-galaxy-c9-pro?storage=332';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/7128-11-1.jpg" id="IMG_19" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Samsung Galaxy Note 5
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    32 GB ROM | 4 GB RAM
+  </li>
+  <li id="LI_3">
+    5.7-inch Super AMOLED display 
+  </li>
+  <li id="LI_4">
+    16MP Primary Camera | 5MP Front
+  </li>
+  <li id="LI_5">
+     Li-Ion 3,000 mAh battery
+  </li>
+  <li id="LI_7">
+    2.1 GHz octa-core Exynos 7420 processor
+  </li>
+</ul>
+        </div>
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/gp/offer-listing/B014UWQ4CQ/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170331356713&condition=new';">
+              Amazon.in<b id="STRONG_47">‎₹39,699</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='https://www.flipkart.com/samsung-galaxy-note-5-gold-platinum-32-gb/p/itmec4cxvwnz2zpx?pid=MOBEB893PU2JFTFF&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170331356706';">
+              Flipkart<b id="STRONG_50">‎₹35,900</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" onclick="location.href='http://www.croma.com/samsung-galaxy-note-5-32-gb-black-/p/193009?cm_mmc=mysmartprice-_-affiliates-_-offers-_-na&utm_source=mysmartprice&utm_medium=affiliates&utm_campaign=na';">
+              Croma<b id="STRONG_53">‎₹42,900</b>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Flipkart</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹35,900</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='https://www.flipkart.com/samsung-galaxy-note-5-gold-platinum-32-gb/p/itmec4cxvwnz2zpx?pid=MOBEB893PU2JFTFF&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170331356706';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/3076-12-1.jpg" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Nokia Lumia 1020 (EOS)
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    32 GB ROM | 2 GB RAM
+  </li>
+  <li id="LI_3">
+    4.5-inch ClearBlack AMOLED touch screen display
+  </li>
+  <li id="LI_4">
+    41 MP camera with Xenon flashlight 
+  </li>
+  <li id="LI_5">
+    dual-core 1.5 GHz processor 
+  </li>
+  <li id="LI_7">
+    1 year manufacturer Warranty
+  </li>
+</ul>
+        </div>
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" ><strike>
+              Amazon.in<b id="STRONG_47">‎N/A</b></strike>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" ><strike>
+              Flipkart<b id="STRONG_50">‎N/A</b></strike>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" onclick="location.href='http://www.shopclues.com/nokia-lumia-1020-black-12.html?ty=0&id=5-73-46e18856-d93b-4258-808c-e917bd81a317&mcid=aff&tid=nh&utm_source=Mysmartprice&OfferId=15';">
+              Shopmonk<b id="STRONG_53">‎₹48,327</b>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Shopmonk</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹48,327</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='http://www.shopclues.com/nokia-lumia-1020-black-12.html?ty=0&id=5-73-46e18856-d93b-4258-808c-e917bd81a317&mcid=aff&tid=nh&utm_source=Mysmartprice&OfferId=15';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/11240-71-1.jpg" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Sony Xperia XZ
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    64 GB ROM | 3 GB RAM
+  </li>
+  <li id="LI_3">
+    5.2 inch Full HD Display
+  </li>
+  <li id="LI_4">
+    23MP Primary Camera | 13MP Front
+  </li>
+  <li id="LI_5">
+    2900 mAh Battery
+  </li>
+  <li id="LI_7">
+    1 year manufacturer Warranty
+  </li>
+</ul>
+        </div>
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/gp/offer-listing/B01FM7IPIE/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170331378285&condition=new';">
+              Amazon.in<b id="STRONG_47">‎₹38,544</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='https://www.flipkart.com/sony-xperia-xz-dual-platinum-64-gb/p/itmenje8vwx7pqat?pid=MOBENJE8DQB7XWA3&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170331378367';">
+              Flipkart<b id="STRONG_50">‎₹39,990</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" onclick="location.href='https://shopmonk.com/sony-f8332?storage=332';">
+              Shopmonk<b id="STRONG_53">‎₹46,390</b>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Amazon</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹38,554</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='http://www.amazon.in/gp/offer-listing/B01FM7IPIE/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170331378285&condition=new';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/11962-80-1.jpg" id="IMG_20" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            HTC U Ultra
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    64 GB ROM | 4 GB RAM
+  </li>
+  <li id="LI_3">
+    5.7 inch Quad HD Display
+  </li>
+  <li id="LI_4">
+    12MP Primary Camera | 16MP Front
+  </li>
+  <li id="LI_5">
+    3000 mAh Li-lon Battery
+  </li>
+  <li id="LI_7">
+    1 year manufacturer Warranty
+  </li>
+</ul>
+        </div>
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/gp/offer-listing/B06XFRDLPP/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170331383275&condition=new';">
+              Amazon.in<b id="STRONG_47">₹57,900</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='http://www.ebay.in/itm/HTC-U-Ultra-4GB-Ram-64GB-Rom-12-16-MP-camera-Blue-Manufacturer-Warranty-/152464844498?aff_source=mysmartprice';">
+              Ebay<b id="STRONG_50">‎₹59,849</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" ><strike>
+              Snapdeal<b id="STRONG_53">‎N/A</b></strike>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Amazon</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹57,900</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='http://www.amazon.in/gp/offer-listing/B06XFRDLPP/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170331383275&condition=new';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/4509-17-1.jpg" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            LG G3 (Black)
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    32 GB ROM | 3 GB RAM
+  </li>
+  <li id="LI_3">
+    5.5 inch Quad HD Display
+  </li>
+  <li id="LI_4">
+    13MP Primary Camera | 2.1MP Front
+
+  </li>
+  <li id="LI_5">
+    3000 mAh Li-Polymer Battery
+  </li>
+  <li id="LI_7">
+    2.5 GHz quad-core Snapdragon 801
+  </li>
+</ul>
+        </div>
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/gp/offer-listing/B00KMUKYAY/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170331385416&condition=new';">
+              Amazon.in<b id="STRONG_47" >₹24,490</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49"><strike>
+              Flipkart<b id="STRONG_50">‎N/A</b></strike>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52"><strike>
+              Snapdeal<b id="STRONG_53">‎N/A</b></strike>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Amazon</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹24,490</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='http://www.amazon.in/gp/offer-listing/B00KMUKYAY/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170331385416&condition=new';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/4760-68-1.jpg" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Apple iPhone 6 Plus 
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    16 GB ROM | 1 GB RAM
+  </li>
+  <li id="LI_3">
+    5.5-inch LED-backlit IPS LCD capacitive touch screen
+  </li>
+  <li id="LI_4">
+    8MP Primary Camera | 1.2MP Front
+
+  </li>
+  <li id="LI_5">
+    2915 mAh Li-Polymer Battery
+  </li>
+  <li id="LI_7">
+    Apple A8 64-bit processor
+  </li>
+</ul>
+        </div>
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/gp/offer-listing/B00O4WUMJY/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170331387924&condition=new';">
+              Amazon.in<b id="STRONG_47" >₹54,999</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='https://www.flipkart.com/apple-iphone-6-plus-silver-16-gb/p/itme7zgymhjqjccq?pid=MOBEYHZ2YBFZTV3S&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170331387973';">
+              Flipkart<b id="STRONG_50">‎₹50,499</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" onclick="location.href='https://shopmonk.com/apple-iphone-6-plus?storage=331';">
+              Shopmonk<b id="STRONG_53">‎₹34,990</b>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Shopmonk</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹34,990</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='https://shopmonk.com/apple-iphone-6-plus?storage=331';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/6179-13-1.jpg" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Motorola Moto Turbo
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    64 GB ROM | 3 GB RAM
+  </li>
+  <li id="LI_3">
+    5.2 inch Quad HD Display
+  </li>
+  <li id="LI_4">
+    21MP Primary Camera | 2MP Front
+  </li>
+  <li id="LI_5">
+    3900 mAh Li-Polymer Battery
+  </li>
+  <li id="LI_7">
+    1 Year Manufacturer Warranty
+  </li>
+</ul>
+        </div>
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.ebay.in/itm/Motorola-Moto-Turbo-64GB-BLACK-/272405548183?aff_source=mysmartprice';">
+              Ebay<b id="STRONG_47" >₹25,000</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='https://www.flipkart.com/moto-turbo-black-64-gb/p/itme45h87vyhb3mg?pid=MOBE45H673ZGUCVX&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170331393228';">
+              Flipkart<b id="STRONG_50">‎₹31,999</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52"><strike>
+              Snapdeal<b id="STRONG_53">‎N/A</b></strike>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Ebay</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹25,000</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='http://www.ebay.in/itm/Motorola-Moto-Turbo-64GB-BLACK-/272405548183?aff_source=mysmartprice';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/9998-82-1.jpg" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Xiaomi Redmi Note 3
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    3 GB RAM | 32 GB ROM 
+  </li>
+  <li id="LI_3">
+    5.5 inch Full HD Display
+  </li>
+  <li id="LI_4">
+    16MP Primary Camera | 5MP Front
+  </li>
+  <li id="LI_5">
+    4000 mAh Li-Ion Polymer Battery
+  </li>
+  <li id="LI_7">
+    1.8 GHz hexa-core Snapdragon 650
+  </li>
+</ul>
+        </div>
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" ><strike>
+              Amazon.in<b id="STRONG_47" >N/A</b></strike>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='http://www.ebay.in/itm/Xiaomi-Redmi-Note-3-2GB-Ram-16GB-Rom-16-Mp-Camera-Gold-Deal-/182448260028?aff_source=mysmartprice';">
+              Ebay<b id="STRONG_50">‎‎₹9,900</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52"><strike>
+              Snapdeal<b id="STRONG_53">‎N/A</b></strike>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Ebay</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹9,900</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='http://www.ebay.in/itm/Xiaomi-Redmi-Note-3-2GB-Ram-16GB-Rom-16-Mp-Camera-Gold-Deal-/182448260028?aff_source=mysmartprice';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>

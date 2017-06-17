@@ -1,0 +1,778 @@
+ <li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://rukminim1.flixcart.com/image/312/312/mobile/5/b/f/motorola-moto-g5-plus-xt-1686-original-imaes3bzhs4thksp.jpeg?q=70" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Moto G5 Plus (Lunar Grey)
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    32 GB ROM | 4 GB RAM
+  </li>
+  <li id="LI_3">
+    5.2 inch Full HD Display
+  </li>
+  <li id="LI_4">
+    12MP Primary Camera | 5MP Front
+  </li>
+  <li id="LI_5">
+    3000 mAh Battery
+  </li>
+  <li id="LI_7">
+    1 Year Manufacturer Warranty
+  </li>
+</ul>
+        </div>
+        
+        
+
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" ><strike>
+              Amazon.in<b id="STRONG_47">‎N/A</b></strike>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='https://www.flipkart.com/moto-g5-plus-lunar-grey-32-gb/p/itmes2zjvwfncxxr?pid=MOBEQHMGMAUXS5BF&srno=s_1_1&otracker=search&lid=LSTMOBEQHMGMAUXS5BFVCF0ZO&qH=eb4af0bf07c16429';">
+              Flipkart<b id="STRONG_50">‎₹16,999</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52"><strike>
+              Snapdeal<b id="STRONG_53">‎N/A</b></strike>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+
+            <div id="DIV_59">
+              <em id="EM_60">Flipkart</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹16,999</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='https://www.flipkart.com/moto-g5-plus-lunar-grey-32-gb/p/itmes2zjvwfncxxr?pid=MOBEQHMGMAUXS5BF&srno=s_1_1&otracker=search&lid=LSTMOBEQHMGMAUXS5BFVCF0ZO&qH=eb4af0bf07c16429';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://rukminim1.flixcart.com/image/312/312/mobile/n/t/j/google-pixel-xl-m7-original-imaemzzgsfuvy7ek.jpeg?q=70" id="IMG_19" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Huawei P9 (Prestige Gold)
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    32 GB ROM | 3 GB RAM
+  </li>
+  <li id="LI_3">
+    5.2 inch Full HD Display
+  </li>
+  <li id="LI_4">
+    12MP Primary Camera | 12MP Front
+  </li>
+  <li id="LI_5">
+    3000 mAh Battery
+  </li>
+  <li id="LI_7">
+    ARM Cortex-A53 64-bit Processor
+  </li>
+</ul>
+        </div>
+        
+        
+
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/Huawei-P9-EVA-L09-Prestige-Gold/dp/B01KX2QTMM/ref=sr_1_1?ie=UTF8&qid=1490798362&sr=8-1&keywords=huawei+p9';">
+              Amazon.in<b id="STRONG_47">‎₹28,990</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='https://www.flipkart.com/huawei-p9-prestige-gold-32-gb/p/itmekqhyfhefv5r8?pid=MOBEKQHYZTPZ6FZ5&srno=s_1_13&otracker=search&lid=LSTMOBEKQHYZTPZ6FZ5C3PIQN&qH=532c28d5412dd75b';">
+              Flipkart<b id="STRONG_50">‎₹39,999</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52"><strike>
+              Snapdeal<b id="STRONG_53">‎N/A</b></strike>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Amazon</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹28,990</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='http://www.amazon.in/Huawei-P9-EVA-L09-Prestige-Gold/dp/B01KX2QTMM/ref=sr_1_1?ie=UTF8&qid=1490798362&sr=8-1&keywords=huawei+p9';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://rukminim1.flixcart.com/image/832/832/mobile/6/g/7/google-pixel-m4-original-imaemzzdh3azqsqb.jpeg?q=70" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Google Pixel XL (Quite Black)
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    128 GB ROM | 4 GB RAM
+  </li>
+  <li id="LI_3">
+    5.5 inch Quad HD Display
+  </li>
+  <li id="LI_4">
+    12.3MP Primary Camera | 8MP Front
+  </li>
+  <li id="LI_5">
+    3450 mAh Battery
+  </li>
+  <li id="LI_7">
+    Qualcomm Snapdragon 821 64-bit Processor
+  </li>
+</ul>
+        </div>
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/Google-Pixel-Quite-Black-128GB/dp/B01M4N5BF9/ref=sr_1_5?ie=UTF8&qid=1490798823&sr=8-5&keywords=google+pixel+xl';">
+              Amazon.in<b id="STRONG_47">‎₹75,550</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='https://www.flipkart.com/google-pixel-xl-quite-black-128-gb/p/itmemv9stt7mvuef?pid=MOBEMV9REASZ5BZY&srno=s_1_24&otracker=search&lid=LSTMOBEMV9REASZ5BZYXVIUZA&qH=532c28d5412dd75b';">
+              Flipkart<b id="STRONG_50">‎₹76,000</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" onclick="location.href='https://www.snapdeal.com/product/google-pixel-128gb-quite-black/659860268393#bcrumbSearch:google%20pixel%20xl';">
+              Snapdeal<b id="STRONG_53">‎₹66,000</b>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Snapdeal</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹66,000</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='https://www.snapdeal.com/product/google-pixel-128gb-quite-black/659860268393#bcrumbSearch:google%20pixel%20xl';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://rukminim1.flixcart.com/image/832/832/mobile/7/g/6/lg-v20-original-imaep9sxprvqmpj5.jpeg?q=70" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            LG V20 (Silver)
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    64 GB ROM | 4 GB RAM
+  </li>
+  <li id="LI_3">
+    5.7 inch Quad HD Display
+  </li>
+  <li id="LI_4">
+    16MP+8MP Primary Cameras | 5MP Front
+  </li>
+  <li id="LI_5">
+    3200 mAh Battery
+  </li>
+  <li id="LI_7">
+    1 year manufacturer Warranty
+  </li>
+</ul>
+        </div>
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/LG-LGH990DS-V20-Silver/dp/B01MZXEACC/ref=sr_1_2?s=electronics&ie=UTF8&qid=1490799511&sr=1-2&keywords=lgv20';">
+              Amazon.in<b id="STRONG_47">‎₹38,500</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='https://www.flipkart.com/lg-v20-silver-64-gb/p/itmep9smwwgwnzzc?pid=MOBEP9SMEXDDY7G6&srno=s_1_28&otracker=search&lid=LSTMOBEP9SMEXDDY7G6981PHH&qH=532c28d5412dd75b';">
+              Flipkart<b id="STRONG_50">‎₹41,999</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" onclick="location.href='https://www.snapdeal.com/product/lg-v20-h990ds-64gb-silver/650805702610#bcrumbSearch:lg%20v20';">
+              Snapdeal<b id="STRONG_53">‎₹39,555</b>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Amazon</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹38,500</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='http://www.amazon.in/LG-LGH990DS-V20-Silver/dp/B01MZXEACC/ref=sr_1_2?s=electronics&ie=UTF8&qid=1490799511&sr=1-2&keywords=lgv20';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://rukminim1.flixcart.com/image/312/312/mobile/v/h/q/huawei-nexus-6p-special-edition-h1512-original-imaee4n9emzehmfv.jpeg?q=70" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Nexus 6P SE (Gold)
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    64 GB ROM | 3 GB RAM
+  </li>
+  <li id="LI_3">
+    5.7 inch Quad HD Display
+  </li>
+  <li id="LI_4">
+    12.3MP Primary Camera | 8MP Front
+  </li>
+  <li id="LI_5">
+    3450 mAh Battery
+  </li>
+  <li id="LI_7">
+    1 year manufacturer Warranty
+  </li>
+</ul>
+        </div>
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/Huawei-Nexus-6P-Grey-64GB/dp/B0179SMJIG/ref=sr_1_2?s=electronics&ie=UTF8&qid=1490799834&sr=1-2&keywords=Nexus+6P';">
+              Amazon.in<b id="STRONG_47">‎₹74,800</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='https://www.flipkart.com/nexus-6p-special-gold-64-gb/p/itmee4ghjzhkvfkz?pid=MOBEE4GHW2KQTVHQ&srno=s_1_37&otracker=search&lid=LSTMOBEE4GHW2KQTVHQIJOC3J&qH=532c28d5412dd75b';">
+              Flipkart<b id="STRONG_50">‎₹39,998</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" ><strike>
+              Snapdeal<b id="STRONG_53">‎N/A</b></strike>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Flipkart</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹39,998</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='https://www.flipkart.com/nexus-6p-special-gold-64-gb/p/itmee4ghjzhkvfkz?pid=MOBEE4GHW2KQTVHQ&srno=s_1_37&otracker=search&lid=LSTMOBEE4GHW2KQTVHQIJOC3J&qH=532c28d5412dd75b';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://rukminim1.flixcart.com/image/312/312/mobile/k/p/p/motorola-moto-x-style-xt1572-original-imaebugedxgxfr6g.jpeg?q=70" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Moto X Style (Black)
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    32 GB ROM | 3 GB RAM
+  </li>
+  <li id="LI_3">
+    5.7 inch Quad HD Display
+  </li>
+  <li id="LI_4">
+    21MP Primary Camera | 5MP Front
+  </li>
+  <li id="LI_5">
+    3000 mAh Li-lon Battery
+  </li>
+  <li id="LI_7">
+    1 year manufacturer Warranty
+  </li>
+</ul>
+        </div>
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" ><strike>
+              Amazon.in<b id="STRONG_47">N/A</b></strike>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='https://www.flipkart.com/moto-x-style-black-32-gb/p/itmeajtqe4rnvzf8?pid=MOBEAJTQHXGXSKPP&srno=s_1_18&otracker=search&lid=LSTMOBEAJTQHXGXSKPPK9J4PM&qH=532c28d5412dd75b';">
+              Flipkart<b id="STRONG_50">‎₹28,999</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" ><strike>
+              Snapdeal<b id="STRONG_53">‎N/A</b></strike>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Flipkart</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹28,999</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='https://www.flipkart.com/moto-x-style-black-32-gb/p/itmeajtqe4rnvzf8?pid=MOBEAJTQHXGXSKPP&srno=s_1_18&otracker=search&lid=LSTMOBEAJTQHXGXSKPPK9J4PM&qH=532c28d5412dd75b';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://rukminim1.flixcart.com/image/832/832/mobile/p/6/a/htc-10-na-original-imaek6jxbm5vf9vg.jpeg?q=70" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            HTC 10 (Topaz Gold)
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    32 GB ROM | 4 GB RAM
+  </li>
+  <li id="LI_3">
+    5.2 inch Quad HD Display
+  </li>
+  <li id="LI_4">
+    12MP Primary Camera | 5MP Front
+
+  </li>
+  <li id="LI_5">
+    3000 mAh Li-Polymer Battery
+  </li>
+  <li id="LI_7">
+    Qualcomm Snapdragon 820 64-bit Processor
+  </li>
+</ul>
+        </div>
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/HTC-10-Topaz-Gold-32GB/dp/B01GVJONL0/ref=sr_1_6?s=electronics&ie=UTF8&qid=1490801232&sr=1-6&keywords=mobiles';">
+              Amazon.in<b id="STRONG_47" >₹39,999</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='https://www.flipkart.com/htc-10-topaz-gold-32-gb/p/itmejyrjurb5zas7?pid=MOBEJYRGZNPTRP6A&srno=s_1_8&otracker=search&lid=LSTMOBEJYRGZNPTRP6AHOPCM8&qH=14408119a78f118e';">
+              Flipkart<b id="STRONG_50">‎₹41,490</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" onclick="location.href='https://www.snapdeal.com/product/htc-10-32gb-rose-gold/667466485093#bcrumbSearch:htc%2010';">
+              Snapdeal<b id="STRONG_53">‎₹36,899</b>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Snapdeal</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹36,899</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='https://www.snapdeal.com/product/htc-10-32gb-rose-gold/667466485093#bcrumbSearch:htc%2010';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="http://ecx.images-amazon.com/images/I/513urfEe5LL._AC_US240_QL65_.jpg" id="IMG_20" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            OnePlus 3 (Graphite)
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    64 GB ROM | 4 GB RAM
+  </li>
+  <li id="LI_3">
+    5.5 inch Quad HD Display
+  </li>
+  <li id="LI_4">
+    16MP Primary Camera | 8MP Front
+
+  </li>
+  <li id="LI_5">
+    3000 mAh Li-Polymer Battery
+  </li>
+  <li id="LI_7">
+    1 Year Manufacturer Warranty
+  </li>
+</ul>
+        </div>
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/OnePlus-3-Graphite-64-GB/dp/B01DDP7UQ0/ref=sr_1_5?s=electronics&ie=UTF8&qid=1490801774&sr=1-5&keywords=mobiles';">
+              Amazon.in<b id="STRONG_47" >₹21,340</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49"><strike>
+              Flipkart<b id="STRONG_50">‎N/A</b></strike>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52"><strike>
+              Snapdeal<b id="STRONG_53">‎N/A</b></strike>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Amazon</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹21,340</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='http://www.amazon.in/OnePlus-3-Graphite-64-GB/dp/B01DDP7UQ0/ref=sr_1_5?s=electronics&ie=UTF8&qid=1490801774&sr=1-5&keywords=mobiles';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://rukminim1.flixcart.com/image/832/832/mobile/n/g/v/samsung-galaxy-s6-edge-sm-g925izdeins-sm-g925izdeinu-original-imae5rwwgqumbs7u.jpeg?q=70" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Samsung Galaxy S6 Edge
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    64 GB ROM | 3 GB RAM
+  </li>
+  <li id="LI_3">
+    5.1 inch Quad HD Display
+  </li>
+  <li id="LI_4">
+    16MP Primary Camera | 5MP Front
+  </li>
+  <li id="LI_5">
+    2600 mAh Li-Polymer Battery
+  </li>
+  <li id="LI_7">
+    1 Year Manufacturer Warranty
+  </li>
+</ul>
+        </div>
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/Samsung-Galaxy-Edge-Gold-Platinum/dp/B00UTH075M/ref=sr_1_2?s=electronics&ie=UTF8&qid=1490802615&sr=1-2&keywords=mobiles';">
+              Amazon.in<b id="STRONG_47" >₹59,499</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='https://www.flipkart.com/samsung-galaxy-s6-edge-gold-platinum-64-gb/p/itme5z4awz5cqk26?pid=MOBE5Z49FGGMSNGV&srno=s_1_3&otracker=search&lid=LSTMOBE5Z49FGGMSNGVFT0OD0&qH=40e93aac93e8b8b6';">
+              Flipkart<b id="STRONG_50">‎₹39,989</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" onclick="location.href='https://www.snapdeal.com/product/samsung-galaxy-s6-edge-64/657125012448#bcrumbSearch:Samsung%20Galaxy%20S6%20Edge';">
+              Snapdeal<b id="STRONG_53">‎₹39,999</b>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Flipkart</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹39,989</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='https://www.flipkart.com/samsung-galaxy-s6-edge-gold-platinum-64-gb/p/itme5z4awz5cqk26?pid=MOBE5Z49FGGMSNGV&srno=s_1_3&otracker=search&lid=LSTMOBE5Z49FGGMSNGVFT0OD0&qH=40e93aac93e8b8b6';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://rukminim1.flixcart.com/image/832/832/mobile/w/7/h/mi-mi-5-na-original-imaejfsm3kgm594y.jpeg?q=70" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Mi 5 (Gold)
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    3 GB RAM | 32 GB ROM 
+  </li>
+  <li id="LI_3">
+    5.15 inch Full HD Display
+  </li>
+  <li id="LI_4">
+    16MP Primary Camera | 4MP Front
+  </li>
+  <li id="LI_5">
+    3000 mAh Li-Ion Polymer Battery
+  </li>
+  <li id="LI_7">
+    Snapdragon 820 Kryo Processor
+  </li>
+</ul>
+        </div>
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/Mi-5-Gold/dp/B01IEOUYPO/ref=sr_1_1?s=electronics&ie=UTF8&qid=1490802988&sr=1-1&keywords=mobiles';">
+              Amazon.in<b id="STRONG_47" >₹24,999</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" ><strike>
+              Flipkart<b id="STRONG_50">‎N/A</b></strike>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52"><strike>
+              Snapdeal<b id="STRONG_53">‎N/A</b></strike>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Amazon</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹24,999</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='http://www.amazon.in/Mi-5-Gold/dp/B01IEOUYPO/ref=sr_1_1?s=electronics&ie=UTF8&qid=1490802988&sr=1-1&keywords=mobiles';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>

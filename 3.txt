@@ -1,0 +1,791 @@
+ <li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/11381-17-1.jpg" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Samsung Galaxy On8(Gold)
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    16 GB ROM | 3 GB RAM
+  </li>
+  <li id="LI_3">
+    5.5-inch Full HD Super AMOLED display
+  </li>
+  <li id="LI_4">
+    13MP Primary Camera | 5MP Front
+  </li>
+  <li id="LI_5">
+    3300 mAh Battery
+  </li>
+  <li id="LI_7">
+    1 Year Manufacturer Warranty
+  </li>
+</ul>
+        </div>
+        
+        
+
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href = 'http://www.amazon.in/gp/offer-listing/B01M7MAM9Y/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170330380223&condition=new';">
+              Amazon.in<b id="STRONG_47">‎₹12,990</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='https://www.flipkart.com/samsung-galaxy-on8-gold-16-gb/p/itmemvarkqg5dyay?pid=MOBEMJR2NDM4EAHQ&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170330380359';">
+              Flipkart<b id="STRONG_50">‎₹13,490</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52"><strike>
+              Snapdeal<b id="STRONG_53">‎N/A</b></strike>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+
+            <div id="DIV_59">
+              <em id="EM_60">Flipkart</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹12,990</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='http://www.amazon.in/gp/offer-listing/B01M7MAM9Y/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170330380223&condition=new';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/11602-60-1.jpg" id="IMG_20" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Vivo V5 (Gold)
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    32 GB ROM | 4 GB RAM
+  </li>
+  <li id="LI_3">
+    5.5 inch Full HD Display
+  </li>
+  <li id="LI_4">
+    20MP Primary Camera | 13MP Front
+  </li>
+  <li id="LI_5">
+    3000 mAh Battery
+  </li>
+  <li id="LI_7">
+    Android 6.0 Marshmallow
+  </li>
+</ul>
+        </div>
+        
+        
+
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/gp/offer-listing/B01N7AG0AX/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170330382230&condition=new';">
+              Amazon.in<b id="STRONG_47">‎₹16,249</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" ><strike>
+              Flipkart<b id="STRONG_50">‎N/A</b></strike>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" onclick="location.href='http://www.shopclues.com/vivo-v5-32gb.html?ty=0&id=5-73-46e18856-d93b-4258-808c-e917bd81a317&mcid=aff&tid=nh&utm_source=Mysmartprice&OfferId=15';">
+              Shopclues<b id="STRONG_53">‎₹16,249</b>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Amazon</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹16,249</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='http://www.amazon.in/gp/offer-listing/B01N7AG0AX/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170330382230&condition=new';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/10447-2-1.jpg" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            LeEco Le 2 (Gold, Grey)
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    32 GB ROM | 4 GB RAM
+  </li>
+  <li id="LI_3">
+    5.5 inch Full HD Display
+  </li>
+  <li id="LI_4">
+    16MP Primary Camera | 8MP Front
+  </li>
+  <li id="LI_5">
+    3000 mAh Battery
+  </li>
+  <li id="LI_7">
+    Android 6.0 Marshmallow
+  </li>
+</ul>
+        </div>
+        
+        
+
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/gp/offer-listing/B01LLITO1K/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170330385618&condition=new';">
+              Amazon.in<b id="STRONG_47">‎₹13,999</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='https://www.flipkart.com/leeco-le-2-rose-gold-32-gb/p/itmejeucxaxmnk8k?pid=MOBEJEUCS2Z4N2E2&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170330385630';">
+              Flipkart<b id="STRONG_50">‎₹11,999</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" ><strike>
+              Snapdeal<b id="STRONG_53">‎N/A</b></strike>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Flipkart</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹11,999</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='https://www.flipkart.com/leeco-le-2-rose-gold-32-gb/p/itmejeucxaxmnk8k?pid=MOBEJEUCS2Z4N2E2&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170330385630';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/11813-5-1.jpg" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Huawei Honor 6X (Gold, Grey)
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    32 GB ROM | 3 GB RAM
+  </li>
+  <li id="LI_3">
+    5.5 inch Full HD Display
+  </li>
+  <li id="LI_4">
+    14MP Primary Camera | 8MP Front
+  </li>
+  <li id="LI_5">
+    3340 mAh Battery
+  </li>
+  <li id="LI_7">
+    Android 6.0 Marshmallow
+  </li>
+</ul>
+        </div>
+        
+        
+
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/gp/offer-listing/B01FM7J8BC/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170330387336&condition=new';">
+              Amazon.in<b id="STRONG_47">‎₹12,999</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" ><strike>
+              Flipkart<b id="STRONG_50">‎N/A</b></strike>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" ><strike>
+              Snapdeal<b id="STRONG_53">‎N/A</b></strike>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Amazon</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹12,999</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='http://www.amazon.in/gp/offer-listing/B01FM7J8BC/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170330387336&condition=new';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/9662-54-1.jpg" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Oppo F1 Plus (Gold)
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    64 GB ROM | 4 GB RAM
+  </li>
+  <li id="LI_3">
+    5.5 inch Full HD Display
+  </li>
+  <li id="LI_4">
+    13MP Primary Camera | 16MP Front
+  </li>
+  <li id="LI_5">
+    2850 mAh Battery
+  </li>
+  <li id="LI_7">
+    Android 5.1 Lollipop
+  </li>
+</ul>
+        </div>
+        
+        
+
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/gp/offer-listing/B01E8RBVWG/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170330388676&condition=new';">
+              Amazon.in<b id="STRONG_47">‎₹24,000</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='https://www.flipkart.com/oppo-f1-plus-gold-64-gb/p/itmehzhgq9rsyyzb?pid=MOBEHZHGVQQZBBGC&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170330388682';">
+              Flipkart<b id="STRONG_50">‎₹23,999</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" onclick="location.href='http://www.shopclues.com/oppo-f1-plus-64-gb-golden-product-114103633.html?ty=0&id=5-73-46e18856-d93b-4258-808c-e917bd81a317&mcid=aff&tid=nh&utm_source=Mysmartprice&OfferId=15';">
+              Shopclues<b id="STRONG_53" >₹27,000</b>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Flipkart</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹23,999</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='https://www.flipkart.com/oppo-f1-plus-gold-64-gb/p/itmehzhgq9rsyyzb?pid=MOBEHZHGVQQZBBGC&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170330388682';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/11854-45-1.jpg" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Lenovo K6 Note (Gold)
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    32 GB ROM | 4 GB RAM
+  </li>
+  <li id="LI_3">
+    5.5 inch Full HD Display
+  </li>
+  <li id="LI_4">
+    16MP Primary Camera | 8MP Front
+  </li>
+  <li id="LI_5">
+    4000 mAh Battery
+  </li>
+  <li id="LI_7">
+    Android 6.0 Marshmallow
+  </li>
+</ul>
+        </div>
+        
+        
+
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/gp/offer-listing/B01N7IZM1H/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170330397448&condition=new';">
+              Amazon.in<b id="STRONG_47">‎₹14,589</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='https://www.flipkart.com/lenovo-k6-note-gold-32-gb/p/itmes68ahqn5shm7?pid=MOBES68AHHX4YHQZ&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170330397463';">
+              Flipkart<b id="STRONG_50">‎₹14,980</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" onclick="location.href='http://www.shopclues.com/lenovo-k6-note-4-gb-ram-32-gb-gold.html?ty=0&id=5-73-46e18856-d93b-4258-808c-e917bd81a317&mcid=aff&tid=nh&utm_source=Mysmartprice&OfferId=15';">
+              Shopclues<b id="STRONG_53" >₹14,699</b>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Amazon</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹14,589</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='http://www.amazon.in/gp/offer-listing/B01N7IZM1H/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170330397448&condition=new';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/11718-2-1.jpg" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            OnePlus 3T
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    128 GB ROM | 6 GB RAM
+  </li>
+  <li id="LI_3">
+    5.50-inch Full HD Optic AMOLED display
+  </li>
+  <li id="LI_4">
+    16MP Primary Camera | 16MP Front
+  </li>
+  <li id="LI_5">
+    3400 mAh Battery
+  </li>
+  <li id="LI_7">
+    USB Type-C, GPS, GLONASS, NFC, Bluetooth 4.2, Wi-Fi 802.11 
+  </li>
+</ul>
+        </div>
+        
+        
+
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/OnePlus-3T-Gunmetal-128GB/dp/B01FM7JDEO/ref=sr_1_2?/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170330399424&condition=new';">
+              Amazon.in<b id="STRONG_47">‎₹34,999</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" ><strike>
+              Flipkart<b id="STRONG_50">‎N/A</b></strike>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" ><strike>
+              Shopclues<b id="STRONG_53" >N/A</b></strike>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Amazon</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹34,999</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='http://www.amazon.in/OnePlus-3T-Gunmetal-128GB/dp/B01FM7JDEO/ref=sr_1_2?/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170330399424&condition=new';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://rukminim1.flixcart.com/image/832/832/mobile/b/q/p/lenovo-phab-2-plus-pb2-670m-original-imaeqcpw4shswuzd.jpeg?q=70" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Lenovo Phab 2 Plus
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    32 GB ROM | 3 GB RAM
+  </li>
+  <li id="LI_3">
+    6.4-inch Full HD display
+  </li>
+  <li id="LI_4">
+    13MP Primary Camera | 8MP Front
+  </li>
+  <li id="LI_5">
+    4050 mAh Battery
+  </li>
+  <li id="LI_7">
+    Android 6.0.1 Marshmallow 
+  </li>
+</ul>
+</div>
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/Lenovo-Phab-Plus-Smartphone-earphones/dp/B01FM7IT3K?/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170330402165&condition=new';">
+              Amazon.in<b id="STRONG_47">‎₹14,999</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='https://www.flipkart.com/lenovo-phab-2-plus-gunmetal-grey-32-gb/p/itmeqcpncnvyfzdk?pid=MOBEQCPNG8KGCBQP&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170330402156';">
+              Flipkart<b id="STRONG_50">‎₹13,999</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" ><strike>
+              Snapdeal<b id="STRONG_53" >N/A</b></strike>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Flipkart</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹13,999</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='https://www.flipkart.com/lenovo-phab-2-plus-gunmetal-grey-32-gb/p/itmeqcpncnvyfzdk?pid=MOBEQCPNG8KGCBQP&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170330402156';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/10210-5-1.jpg" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Apple iPhone SE (Gold)
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    36 GB ROM | 2 GB RAM
+  </li>
+  <li id="LI_3">
+     4-inch IPS display
+  </li>
+  <li id="LI_4">
+    12MP Primary Camera | 1.2MP Front
+  </li>
+  <li id="LI_5">
+    1624 mAh Battery
+  </li>
+  <li id="LI_7">
+    iOS 9.3 operating system 
+  </li>
+</ul>
+</div>
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/gp/offer-listing/B01DXTSZDI/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170330405338&condition=new';">
+              Amazon.in<b id="STRONG_47">‎₹23,600</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='http://www.ebay.in/itm/Apple-iPhone-SE-16GB-Space-Gray-Brand-New-Sealed-1Year-Apple-India-Warranty-/162431901899?aff_source=mysmartprice';">
+              Ebay<b id="STRONG_50">‎₹21,299</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" onclick="location.href='http://www.shopclues.com/apple-iphone-se-16gb.html?ty=0&id=5-73-46e18856-d93b-4258-808c-e917bd81a317&mcid=aff&tid=nh&utm_source=Mysmartprice&OfferId=15';">
+              Shopclues<b id="STRONG_53" >₹23,999</b>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Ebay</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹21,299</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65" onclick="location.href='http://www.ebay.in/itm/Apple-iPhone-SE-16GB-Space-Gray-Brand-New-Sealed-1Year-Apple-India-Warranty-/162431901899?aff_source=mysmartprice';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
+<br/><br/>
+<li id="LI_1">
+  <article id="ARTICLE_2">
+  
+      <div id="DIV_17">
+        <img src="https://assets.mspcdn.net/t_c-desktop-normal,f_auto,q_auto,d_c:noimage.jpg/c/9718-13-1.jpg" id="IMG_18" />
+        
+      </div>
+    
+    <div id="DIV_22">
+      <div id="DIV_23">
+        <div id="DIV_24">
+          <h3 id="H3_25">
+            Samsung Galaxy A9 Pro
+          </h3>
+          <div id="DIV_26">
+          </div>
+        </div>
+        <div id="DIV_27">
+          <ul id="UL_1">
+  <li id="LI_2">
+    32 GB ROM | 4 GB RAM
+  </li>
+  <li id="LI_3">
+    6-inch Amoled display
+  </li>
+  <li id="LI_4">
+    16MP Primary Camera | 8MP Front
+  </li>
+  <li id="LI_5">
+    5000 mAh Battery
+  </li>
+  <li id="LI_7">
+    Android 6.0.1 Marshmallow 
+  </li>
+</ul>
+</div>
+      </div>
+      <section id="SECTION_42">
+        
+        <ul id="UL_44">
+          <li id="LI_45">
+            <button id="BUTTON_46" onclick="location.href='http://www.amazon.in/gp/offer-listing/B01M0B63MS/?sort=price&/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=9380349300&linkCode=as2&tag=mysm-21&ascsubtag=20170330405919&condition=new';">
+              Amazon.in<b id="STRONG_47">‎₹29,900</b>
+            </button>
+          </li>
+          <li id="LI_48">
+            <button id="BUTTON_49" onclick="location.href='https://www.flipkart.com/samsung-galaxy-a9-pro-black-32-gb/p/itmemzhfub7htq6y?pid=MOBEMZHFBUKN29WT&affid=sulakshanm&affExtParam1=electronics&affExtParam2=20170330405856';">
+              Flipkart<b id="STRONG_50">‎₹26,900</b>
+            </button>
+          </li>
+          <li id="LI_51">
+            <button id="BUTTON_52" onclick="location.href='https://shopmonk.com/samsung-galaxy-a9-pro-1?storage=334';">
+              Shopmonk<b id="STRONG_53" >₹24,900</b>
+            </button>
+          </li>
+        </ul>
+        
+      </section>
+      <section id="SECTION_56">
+        <div id="DIV_57">
+          <div id="DIV_58">
+            <div id="DIV_59">
+              <em id="EM_60">Shopmonk</em>
+              <meta content="5579" id="META_61" />
+              <meta content="3480" id="META_62" /> ‎ <strong id="STRONG_64">‎₹24,900</strong>
+            </div>
+            <img src="http://mobile-phones.ucoz.com/mobile_phone_best_deals.gif" class="best">
+          </div>
+          <button id="BUTTON_65"  onclick="location.href='https://shopmonk.com/samsung-galaxy-a9-pro-1?storage=334';">
+            View Deal
+          </button>
+        </div>
+      </section>
+    </div>
+  </article>
+</li>
